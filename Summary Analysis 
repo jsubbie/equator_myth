@@ -1,0 +1,13 @@
+Summary Analysis 
+
+After taking a random sample of 1000 geographic coordinates, removing any duplicate locations, and then charting their current related Temperatures, Humidities, Cloud Densities, and Wind Speeds, three trends were observed. 
+
+1) The current temperatures for areas south and at the equator were generally higher than northern latitudes. Given that the data was collected during the northern winter months, this trend seems to confirm that it is, indeed, winter in the north. For the sake of proving/disproving this trend, the test should be performed again in the Northern summer months (e.g. June, July, August). 
+
+2) The data also shows that the relative humidities are higher in areas at and north of the equator than those in the lower latitudes. This data, along with the cloud and wind speed data, infers (what most North Americans already know at this time) that there is currently more violent weather and precipitation around and north of the equator. This makes sense, given that (again) at the time the data was collected the northern latitudes were in the middle of winter. That being said, the test should be run again during the northern summer months to see if the southern latitudes experience an increase in humidity, cloud coverage, wind speed, and a decrease in temperature. 
+
+3) Finally, the data suggests that temperature, humidity, cloud coverage, and wind speed are fairly consistent for cities around the equator. 
+
+Further considerations
+
+While this code would be useful in order to gather random data for general logitudinal studies, it it fails to take into account outside variables such as population density, CO2 omissions/density, o-zone density, and historcial data. The final part is especially important for the sake of reaching any immediate conclusions. 
